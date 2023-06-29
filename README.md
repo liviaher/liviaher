@@ -6,7 +6,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=liviaher&theme=dracula&hide_border=true&layout=compact&langs_count=10"/>
 </div>
  
-![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=liviaher&theme=darcula&hide_border=true)
+[![Github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=liviaher)](https://github.com/liviaher/github-readme-activity-graph)
 
 <div>
  <table>
